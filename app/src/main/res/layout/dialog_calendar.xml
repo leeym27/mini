@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="400dp"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <CalendarView
+            android:id="@+id/calendarView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <EditText
+            android:id="@+id/edtDiary"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="메모를 입력하세요"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/main_itme_button"
+                android:id="@+id/saveBtn"
+                android:text="저장하기"/>
+            <Button
+                android:id="@+id/closeBtn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/main_itme_button"
+                android:text="X"
+                android:layout_gravity="end" />
+        </LinearLayout>
+        <TextView
+            android:id="@+id/memoTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="메모"
+            android:padding="16dp"
+            android:textSize="16sp"/>
+    </LinearLayout>
+
+
+</LinearLayout>
