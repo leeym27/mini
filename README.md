@@ -37,7 +37,34 @@
   - API : YOUTUBE
 
 #### 2.3 결과물
+  - 시작 화면
+  - ![화면1](https://github.com/leeym27/mini/assets/172059199/3e379310-2644-4882-87f0-6d83880fec93)
 
+
+  - 신체정보 작성하기
+  -  ![화면2](https://github.com/leeym27/mini/assets/172059199/fc6d89e5-0813-42cb-aa9a-fa363564081c)  ![화면2-2](https://github.com/leeym27/mini/assets/172059199/fddc17e4-d9c5-4c97-967b-1527c41a955d)
+
+
+
+  - 다이어트 날짜 정하기
+  - ![화면3-1](https://github.com/leeym27/mini/assets/172059199/41b24465-0629-4bfc-bbe2-ad3173d50b23)   ![화면3-2](https://github.com/leeym27/mini/assets/172059199/b0b1f484-0892-4796-b250-e4a300e50285)
+
+
+
+  - 결과 측정하기
+  - ![화면4-1](https://github.com/leeym27/mini/assets/172059199/0450e047-7eb0-49fb-af0c-b0b7d6116b91)   ![화면4-2](https://github.com/leeym27/mini/assets/172059199/b9b479fa-10ea-42d4-9133-294edcf5c17a)
+
+
+
+  - 유튜브 검색하기
+  - ![화면5-1](https://github.com/leeym27/mini/assets/172059199/9ad4fa89-24f9-4c6e-b179-5960ea8694ff)   ![화면5-2](https://github.com/leeym27/mini/assets/172059199/7feceee6-fc0c-44b5-9e51-f1f848d65e10)
+
+
+
+  - 캘린더 작성하기
+  - ![화면5-3](https://github.com/leeym27/mini/assets/172059199/934d0141-689e-45b0-89f6-e48b3ea885ac)
+
+#### 2.4 시연 영상
 
 
 
