@@ -65,8 +65,7 @@
   - ![화면5-3](https://github.com/leeym27/mini/assets/172059199/934d0141-689e-45b0-89f6-e48b3ea885ac)
 
 #### 2.4 시연 영상
-[https://youtu.be/bSnYqUteywE](url)
-
+[유튜브 시연영상](https://youtu.be/bSnYqUteywE)
 
 
 
